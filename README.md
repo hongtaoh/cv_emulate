@@ -4,6 +4,31 @@ At some point in your life, you have to show other people your CV, be it PhD app
 
 I am amazed by the creativity of the CVs I saw. I collected many of them when I am creating my own CV for my 2020-2021 PhD applicaiton. I decided to organize them based on the templates they use. 
 
+- [cv_emuluate: Academic CVs that you can (hopefully) emulate](#cv-emuluate--academic-cvs-that-you-can--hopefully--emulate)
+    + [Notice](#notice)
+    + [Suggeste & Contribute](#suggeste---contribute)
+  * [Medium Length Professional CV (One-Column)](#medium-length-professional-cv--one-column-)
+    + [Examples](#examples)
+  * [Medium Length Graduate CV (Two-Column)](#medium-length-graduate-cv--two-column-)
+    + [Examples](#examples-1)
+  * [Compact Acadmic CV](#compact-acadmic-cv)
+    + [Examples](#examples-2)
+  * [Awesome CV](#awesome-cv)
+    + [Examples](#examples-3)
+  * [Modern CV](#modern-cv)
+    + [Examples](#examples-4)
+  * [YAAC](#yaac)
+    + [Examples](#examples-5)
+  * [Kieran Healy's CV](#kieran-healy-s-cv)
+  * [R Pagedown](#r-pagedown)
+    + [Examples](#examples-6)
+  * [Other good templates](#other-good-templates)
+  * [IDK (I don't know what templates they used)](#idk--i-don-t-know-what-templates-they-used-)
+  * [HTML](#html)
+  * [Word](#word)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ### Notice
 
 1. Links are fragile by nature;
@@ -15,7 +40,6 @@ If you see your cv below and want it to be removed, please fork and submit PR or
 
 If you want to add your cv to the repository, or want to contribute, simply fork and submit PR. 
 
------------------------------------------------------------
 ## Medium Length Professional CV (One-Column)
 
 - [Template](https://www.latextemplates.com/template/medium-length-professional-cv)
@@ -51,7 +75,6 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 - Sanyam Kapoor: https://d.perhapsbay.es/cv.pdf
 - Zhenmei Shi: http://pages.cs.wisc.edu/~zhmeishi/projects/SHI_Zhenmei_cv.pdf
 
------------------------------------------------------------
 ## Medium Length Graduate CV (Two-Column)
 
 - [Template 1](https://www.latextemplates.com/template/medium-length-graduate-cv)
@@ -83,7 +106,6 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 - Yuke Zhu: https://www.cs.utexas.edu/~yukez/documents/yukez.pdf
 - Yini Zhang: https://yiniz.github.io/files/YiniZHANG_CV.pdf
 
------------------------------------------------------------
 ## Compact Acadmic CV
 
 - [Template](https://www.latextemplates.com/template/compact-academic-cv)
@@ -98,7 +120,6 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 - Xiao Ma: https://maxiao.info/xm-cv.pdf
 - Alvin Zhou: https://alvinyxz.me/files/Zhou_CV.pdf
 
------------------------------------------------------------
 ## Awesome CV
 
 - Original Repo by  posquit0: https://github.com/posquit0/Awesome-CV
@@ -111,7 +132,6 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 
 - Xian Teng: http://www.pitt.edu/~xit22/xianteng_cv_2021_01.pdf
 
------------------------------------------------------------
 ## Modern CV
 
 - [Template 1](https://www.latextemplates.com/template/moderncv-cv-and-cover-letter)
@@ -124,7 +144,6 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 - Maia L. Jacobs: http://maiajacobs.com/wp-content/uploads/2019/11/Jacobs_CV.pdf
 - Mads Almassalkhi: https://www.uvm.edu/cems/ebe/profiles/mads_almassalkhi
 
------------------------------------------------------------
 ## YAAC
 
 - [Christophe Roger's original template](https://www.overleaf.com/latex/templates/awesome-source-cv/wrdjtkkytqcw)
@@ -133,14 +152,12 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 - Ang Li: https://littlerabbithole.github.io/documents/CV_AngLi_2020.pdf
 - Junhao Hua: https://huajh.github.io/cv/awesome-cv.pdf (Source: https://github.com/huajh/awesome-latex-cv)
 
------------------------------------------------------------
 ## Kieran Healy's CV
 
 - [Preview](https://kieranhealy.org/vita.pdf)
 - [Template 1](https://www.overleaf.com/latex/examples/kieran-healys-cv-template/xjgrvmmdpwtk)
 - [Template2: John C. Flournoy - CV](https://sv.overleaf.com/articles/john-c-flournoy-cv/xmjtkrycpcmh)
 
------------------------------------------------------------
 ## R Pagedown
 
 R Pagedown Package: https://github.com/rstudio/pagedown
@@ -154,7 +171,6 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Jodavid Ferreira: https://jodavid.github.io/cv/ (Source: https://github.com/jodavid/cv)
 - Beatriz Milz: https://beatrizmilz.github.io/resume/resume.html (Source: https://github.com/beatrizmilz/resume)
 
------------------------------------------------------------
 ## Other good templates
 
 - [Jan Küster's Classic CV](https://www.overleaf.com/latex/templates/jan-kusters-classic-cv/tvghvdsffwgs)
@@ -166,8 +182,6 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Billryan's cv template: https://github.com/billryan/resume
 - Geoff Boeing's academic CV: https://github.com/gboeing/cv
 
-
------------------------------------------------------------
 ## IDK (I don't know what templates they used)
 
 - Chris Holdgraf: https://predictablynoisy.com/about/#cv
@@ -188,7 +202,6 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Weiai Wayne Xu: https://curiositybits.cc/files/cv.pdf
 - [Yeyu Wang](https://d84d1d40-6fa9-4614-bb4f-5735988f4b7f.filesusr.com/ugd/d9ad11_f302027ab33d420180935f559d3b3d81.pdf)
 
------------------------------------------------------------
 ## HTML
 
 - Hyeok Kim: http://www.hyeok.me/cv
@@ -198,7 +211,6 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Yang Liu: https://yangliu.life/#/cv
 - prat0318's json_resume: https://github.com/prat0318/json_resume
 
------------------------------------------------------------
 ## Word
 - Catherine Chen: https://comm.stanford.edu/mm/2018/07/chen-cv.pdf
 - Lantao Liu: http://homes.sice.indiana.edu/lantao/cv_lantaoliu.pdf
