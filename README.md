@@ -6,32 +6,32 @@ I am amazed by the creativity of the CVs I saw. I collected many of them when I 
 
 ## Table of contents
 
-- [cv_emuluate: Academic CVs that you can (hopefully) emulate](#cv-emuluate--academic-cvs-that-you-can--hopefully--emulate)
-  * [Medium Length Professional CV (One-Column)](#medium-length-professional-cv--one-column-)
-  * [Medium Length Graduate CV (Two-Column)](#medium-length-graduate-cv--two-column-)
-  * [Compact Acadmic CV](#compact-acadmic-cv)
-  * [Awesome CV](#awesome-cv)
-  * [Modern CV](#modern-cv)
-  * [YAAC](#yaac)
-  * [Kieran Healy's CV](#kieran-healy-s-cv)
-  * [R Pagedown](#r-pagedown)
-  * [Other good templates](#other-good-templates)
-  * [IDK (I don't know what templates they used)](#idk--i-don-t-know-what-templates-they-used-)
-  * [HTML](#html)
-  * [Word](#word)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+- [Medium Length Professional CV (One-Column)](#medium-length-professional-cv--one-column-)
+- [Medium Length Graduate CV (Two-Column)](#medium-length-graduate-cv--two-column-)
+- [Compact Acadmic CV](#compact-acadmic-cv)
+- [Awesome CV](#awesome-cv)
+- [Modern CV](#modern-cv)
+- [YAAC](#yaac)
+- [Kieran Healy's CV](#kieran-healy-s-cv)
+- [R Pagedown](#r-pagedown)
+- [Other good templates](#other-good-templates)
+- [IDK (I don't know what templates they used)](#idk--i-don-t-know-what-templates-they-used-)
+- [HTML](#html)
+- [Word](#word)
 
 ### Notice
 
 1. Links are fragile by nature;
 2. If the link is too long, I just put the link to the main website
 
-
 ### Suggeste & Contribute
 If you see your cv below and want it to be removed, please fork and submit PR or simply email me. 
 
 If you want to add your cv to the repository, or want to contribute, simply fork and submit PR. 
+
+### License
+
+MIT
 
 ## Medium Length Professional CV (One-Column)
 
