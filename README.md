@@ -4,24 +4,17 @@ At some point in your life, you have to show other people your CV, be it PhD app
 
 I am amazed by the creativity of the CVs I saw. I collected many of them when I am creating my own CV for my 2020-2021 PhD applicaiton. I decided to organize them based on the templates they use. 
 
+## Table of contents
+
 - [cv_emuluate: Academic CVs that you can (hopefully) emulate](#cv-emuluate--academic-cvs-that-you-can--hopefully--emulate)
-    + [Notice](#notice)
-    + [Suggeste & Contribute](#suggeste---contribute)
   * [Medium Length Professional CV (One-Column)](#medium-length-professional-cv--one-column-)
-    + [Examples](#examples)
   * [Medium Length Graduate CV (Two-Column)](#medium-length-graduate-cv--two-column-)
-    + [Examples](#examples-1)
   * [Compact Acadmic CV](#compact-acadmic-cv)
-    + [Examples](#examples-2)
   * [Awesome CV](#awesome-cv)
-    + [Examples](#examples-3)
   * [Modern CV](#modern-cv)
-    + [Examples](#examples-4)
   * [YAAC](#yaac)
-    + [Examples](#examples-5)
   * [Kieran Healy's CV](#kieran-healy-s-cv)
   * [R Pagedown](#r-pagedown)
-    + [Examples](#examples-6)
   * [Other good templates](#other-good-templates)
   * [IDK (I don't know what templates they used)](#idk--i-don-t-know-what-templates-they-used-)
   * [HTML](#html)
