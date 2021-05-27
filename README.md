@@ -209,5 +209,6 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Lantao Liu: http://homes.sice.indiana.edu/lantao/cv_lantaoliu.pdf
 - Hang Lu: https://lsa.umich.edu/comm/people/regular-faculty/hang-lu.html
 - Lu Tang: http://people.tamu.edu/~ltang/CV_Website.pdf
+- Jessica Calarco: http://www.jessicacalarco.com/
 
 
