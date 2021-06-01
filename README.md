@@ -2,7 +2,7 @@
 
 At some point in your life, you have to show other people your CV, be it PhD application, grant appication, or job application. 
 
-I am amazed by the creativity of the CVs I saw. I collected many of them when I am creating my own CV for my 2020-2021 PhD applicaiton. I decided to organize them based on the templates they use. 
+I am amazed by the creativity of the CVs I saw. I collected many of them when I was creating my own CV for my 2020-2021 PhD applicaiton. I decided to organize them based on the templates they use. 
 
 ## Table of contents
 
@@ -93,9 +93,11 @@ MIT
 - Rui Pei: http://www.ruipei.net/files/cv_vitae.pdf
 - Sam Lau: https://www.samlau.me/sam-lau-cv.pdf
 - Shawn M. Santo: https://www.shawnsanto.com/files/santo_cv.pdf
+- Onur Varol: http://www.onurvarol.com/files/onurvarol-cv.pdf
 - Shiyan Yan: https://drive.google.com/file/d/1Az-ImL_QsL5enqoVxGuQKTS5G7F8T-wQ/view
 - Emma S. Spiro: https://www.dropbox.com/s/esoov1mecfia5hq/spiro_cv.pdf?dl=0
 - Yang Wang: https://yvw.web.illinois.edu/cv/yangwang_cv_academia-long.pdf
+- Kai-Cheng Yang: https://www.kaichengyang.me/static/files/cv.pdf
 - Yuke Zhu: https://www.cs.utexas.edu/~yukez/documents/yukez.pdf
 - Yini Zhang: https://yiniz.github.io/files/YiniZHANG_CV.pdf
 
