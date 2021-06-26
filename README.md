@@ -29,9 +29,18 @@ If you see your cv below and want it to be removed, please fork and submit PR or
 
 If you want to add your cv to the repository, or want to contribute, simply fork and submit PR. 
 
-### License
+## License
 
-[MIT](https://github.com/hongtaoh/cv_emulate/blob/master/LICENSE.md)
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## 1. Medium Length Professional CV (One-Column)
 
