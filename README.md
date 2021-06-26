@@ -4,20 +4,20 @@ At some point in your life, you have to show other people your CV, be it PhD app
 
 I am amazed by the creativity of the CVs I saw. I collected many of them when I was creating my own CV for my 2020-2021 PhD applicaiton. I decided to sort them based on the templates they use. 
 
-## Table of contents
+## TOC
 
-- [1.Medium Length Professional CV (One-Column)](#medium-length-professional-cv-one-column)
-- [2.Medium Length Graduate CV (Two-Column)](#medium-length-graduate-cv-two-column)
-- [3.Compact Acadmic CV](#compact-acadmic-cv)
-- [4.Awesome CV](#awesome-cv)
-- [5.Modern CV](#modern-cv)
-- [6.YAAC](#yaac)
-- [7.Kieran Healy's CV](#kieran-healys-cv)
-- [8.R Pagedown](#r-pagedown)
-- [9.Other good templates](#other-good-templates)
-- [10.IDK (I don't know what templates they used)](#idk-i-dont-know-what-templates-they-used)
-- [11.HTML](#html)
-- [12.Word](#word)
+-   [1. Medium Length Professional CV (One-Column)](#medium-length-professional-cv-one-column)
+-   [2. Medium Length Graduate CV (Two-Column)](#medium-length-graduate-cv-two-column)
+-   [3. Compact Acadmic CV](#compact-acadmic-cv)
+-   [4. Awesome CV](#awesome-cv)
+-   [5. Modern CV](#modern-cv)
+-   [6. YAAC](#yaac)
+-   [7. Kieran Healy's CV](#kieran-healys-cv)
+-   [8. R Pagedown](#r-pagedown)
+-   [9. Other good templates](#other-good-templates)
+-   [10. IDK (I don't know what templates they used)](#idk-i-dont-know-what-templates-they-used)
+-   [11. HTML](#html)
+-   [12. Word](#word)
 
 ### Notice
 
@@ -33,7 +33,7 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 
 [MIT](https://github.com/hongtaoh/cv_emulate/blob/master/LICENSE.md)
 
-## 1.Medium Length Professional CV (One-Column)
+## 1. Medium Length Professional CV (One-Column)
 
 - [Template](https://www.latextemplates.com/template/medium-length-professional-cv)
 - [Template: Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
@@ -67,7 +67,7 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 - Xiangyao Yu: http://pages.cs.wisc.edu/~yxy/cv_xiangyao_yu.pdf
 - Dan Zhang: https://people.cs.umass.edu/~dzhang/CV.pdf
 
-## 2.Medium Length Graduate CV (Two-Column)
+## 2. Medium Length Graduate CV (Two-Column)
 
 - [Template 1](https://www.latextemplates.com/template/medium-length-graduate-cv)
 - [Template 2](https://www.overleaf.com/latex/templates/simple-academic-cv-and-cover-letter/jcbnpttqffzm) (Recommended)
@@ -76,7 +76,6 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 
 - Yong-Yeol Ahn: http://yongyeol.com/cv.pdf
 - Tim Althoff: http://www.timalthoff.com/docs/CV_Tim_Althoff.pdf
-
 - Ceren Budak: http://cbudak.com/cv.pdf
 - Rahul Chatterjee: https://pages.cs.wisc.edu/~chatterjee/data/RahulChatterjee.pdf
 - Christopher M. Danforth: https://cdanfort.w3.uvm.edu/research/danforth-cv.pdf
@@ -102,7 +101,7 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 - Yuke Zhu: https://www.cs.utexas.edu/~yukez/documents/yukez.pdf
 - Yini Zhang: https://yiniz.github.io/files/YiniZHANG_CV.pdf
 
-## 3.Compact Acadmic CV
+## 3. Compact Acadmic CV
 
 - [Template](https://www.latextemplates.com/template/compact-academic-cv)
 - [Template2](https://www.overleaf.com/latex/templates/academic-cv-template/vqghvksnqdhv)
@@ -116,10 +115,9 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 - Runhua Xu: https://xurunhua.com/resource/cv.pdf
 - Alvin Zhou: https://alvinyxz.me/files/Zhou_CV.pdf
 
-## 4.Awesome CV
+## 4. Awesome CV
 
 - Original Repo by  posquit0: https://github.com/posquit0/Awesome-CV
-
 - Template 1: https://www.latextemplates.com/template/awesome-resume-cv
 - Template 2: https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm
 - Template 3: https://www.overleaf.com/latex/examples/academic-cv-template/hvjpfjnyggbf
@@ -128,7 +126,7 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 
 - Xian Teng: http://www.pitt.edu/~xit22/xianteng_cv_2021_01.pdf
 
-## 5.Modern CV
+## 5. Modern CV
 
 - [Template 1](https://www.latextemplates.com/template/moderncv-cv-and-cover-letter)
 - [Template2](https://www.overleaf.com/latex/templates/canadacast-cv-example/wtqmwzjbcxqg)
@@ -140,20 +138,20 @@ If you want to add your cv to the repository, or want to contribute, simply fork
 - Liza Gak: http://lizagak.com/static/GakCV.pdf
 - Maia L. Jacobs: http://maiajacobs.com/wp-content/uploads/2019/11/Jacobs_CV.pdf
 
-## 6.YAAC
+## 6. YAAC
 - [Christophe Roger's original template](https://www.overleaf.com/latex/templates/awesome-source-cv/wrdjtkkytqcw)
 
 ### 6.1 Examples
 - Junhao Hua: https://huajh.github.io/cv/awesome-cv.pdf (Source: https://github.com/huajh/awesome-latex-cv)
 - Ang Li: https://littlerabbithole.github.io/documents/CV_AngLi_2020.pdf
 
-## 7.Kieran Healy's CV
+## 7. Kieran Healy's CV
 
 - [Preview](https://kieranhealy.org/vita.pdf)
 - [Template 1](https://www.overleaf.com/latex/examples/kieran-healys-cv-template/xjgrvmmdpwtk)
 - [Template2: John C. Flournoy - CV](https://sv.overleaf.com/articles/john-c-flournoy-cv/xmjtkrycpcmh)
 
-## 8.R Pagedown
+## 8. R Pagedown
 
 R Pagedown Package: https://github.com/rstudio/pagedown
 
@@ -166,7 +164,7 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Nick Strayer: http://nickstrayer.me/cv/ (Source: https://github.com/nstrayer/cv, Package: https://github.com/nstrayer/datadrivencv)
 - Shixiang Wang: https://shixiangwang.github.io/cv-shixiang/
 
-## 9.Other good templates
+## 9. Other good templates
 
 - [Jan Küster's Classic CV](https://www.overleaf.com/latex/templates/jan-kusters-classic-cv/tvghvdsffwgs)
 - [Deedy CV](https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz)
@@ -177,7 +175,7 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Billryan's cv template: https://github.com/billryan/resume
 - Geoff Boeing's academic CV: https://github.com/gboeing/cv
 
-## 10.IDK (I don't know what templates they used)
+## 10. IDK (I don't know what templates they used)
 
 - Jelena Diakonikolas: http://www.jelena-diakonikolas.com/CV_Jelena.pdf
 - Chris Holdgraf: https://predictablynoisy.com/about/#cv
@@ -198,7 +196,7 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Tongshuang (Sherry) Wu: https://homes.cs.washington.edu/~wtshuang/static/others/Tongshuang_Wu_CV.pdf
 - Weiai Wayne Xu: https://curiositybits.cc/files/cv.pdf
 
-## 11.HTML
+## 11. HTML
 
 - Ibrahim Ahmed: https://iahmed.me/resume/
 - prat0318's json_resume: https://github.com/prat0318/json_resume
@@ -207,7 +205,7 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Eliseo Papa: https://elipapa.github.io/mycv/extended
 - Yihui Xie: https://yihui.org/en/vitae/
 
-## 12.Word
+## 12. Word
 - Jessica Calarco: http://www.jessicacalarco.com/
 - Catherine Chen: https://comm.stanford.edu/mm/2018/07/chen-cv.pdf
 - Lantao Liu: http://homes.sice.indiana.edu/lantao/cv_lantaoliu.pdf
