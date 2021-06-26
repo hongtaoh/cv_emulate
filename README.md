@@ -6,18 +6,18 @@ I am amazed by the creativity of the CVs I saw. I collected many of them when I 
 
 ## TOC
 
--   [1. Medium Length Professional CV (One-Column)](#medium-length-professional-cv-one-column)
--   [2. Medium Length Graduate CV (Two-Column)](#medium-length-graduate-cv-two-column)
--   [3. Compact Acadmic CV](#compact-acadmic-cv)
--   [4. Awesome CV](#awesome-cv)
--   [5. Modern CV](#modern-cv)
--   [6. YAAC](#yaac)
--   [7. Kieran Healy's CV](#kieran-healys-cv)
--   [8. R Pagedown](#r-pagedown)
--   [9. Other good templates](#other-good-templates)
--   [10. IDK (I don't know what templates they used)](#idk-i-dont-know-what-templates-they-used)
--   [11. HTML](#html)
--   [12. Word](#word)
+-   [1. Medium Length Professional CV (One-Column)](#1-medium-length-professional-cv-one-column)
+-   [2. Medium Length Graduate CV (Two-Column)](#2-medium-length-graduate-cv-two-column)
+-   [3. Compact Acadmic CV](#3-compact-acadmic-cv)
+-   [4. Awesome CV](#4-awesome-cv)
+-   [5. Modern CV](#5-modern-cv)
+-   [6. YAAC](#6-yaac)
+-   [7. Kieran Healy's CV](#7-kieran-healys-cv)
+-   [8. R Pagedown](#8-r-pagedown)
+-   [9. Other good templates](#9-other-good-templates)
+-   [10. IDK (I don't know what templates they used)](#10-idk-i-dont-know-what-templates-they-used)
+-   [11. HTML](#11-html)
+-   [12. Word](#12-word)
 
 ### Notice
 
