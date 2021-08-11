@@ -63,6 +63,7 @@ This work is licensed under a
 - Kaleigh Clary: https://people.cs.umass.edu/~kclary/cv.pdf
 - Maitraye Das: https://maitraye.github.io/files/cv/CV.pdf
 - Simon S. Du: http://simonshaoleidu.com/Simon_Du_CV.pdf
+- Zhengqi Gao: https://zhengqigao.github.io/Zhengqi_cv.pdf
 - Joshua Garcia: https://jgarcia.ics.uci.edu/wp-content/uploads/josh-cv-17.pdf
 - Josiah Hanna: https://homepages.inf.ed.ac.uk/jhanna2/university/CV.pdf
 - Chao-Chun Hsu: https://drive.google.com/file/d/1w1Ic8lD4DbfSNps9dLbIGAqeSzDrJKSp/view
@@ -72,11 +73,13 @@ This work is licensed under a
 - Katherine A. Keith: https://kakeith.github.io/vita/cv.pdf
 - Niall C. Keleher: https://nkeleher.com/files/NCKeleher_CV.pdf
 - Juliana Nazaré: https://juliananazare.com/
+- James Ritchie: https://www.jacobritchie.xyz/cv.pdf
 - Zhenmei Shi: http://pages.cs.wisc.edu/~zhmeishi/projects/SHI_Zhenmei_cv.pdf
-- Xiangyao Yu: http://pages.cs.wisc.edu/~yxy/cv_xiangyao_yu.pdf
 - Dan Zhang: https://people.cs.umass.edu/~dzhang/CV.pdf
 
 ## 2. Medium Length Graduate CV (Two-Column)
+
+**Highly recommended**!
 
 - [Template 1](https://www.latextemplates.com/template/medium-length-graduate-cv)
 - [Template 2](https://www.overleaf.com/latex/templates/simple-academic-cv-and-cover-letter/jcbnpttqffzm) (Recommended)
@@ -107,6 +110,7 @@ This work is licensed under a
 - Chenliang Xu: https://www.cs.rochester.edu/~cxu22/cxu-cv.pdf
 - Shiyan Yan: https://drive.google.com/file/d/1Az-ImL_QsL5enqoVxGuQKTS5G7F8T-wQ/view
 - Kai-Cheng Yang: https://www.kaichengyang.me/static/files/cv.pdf
+- Xiangyao Yu: http://pages.cs.wisc.edu/~yxy/cv_xiangyao_yu.pdf
 - Yuke Zhu: https://www.cs.utexas.edu/~yukez/documents/yukez.pdf
 - Yini Zhang: https://yiniz.github.io/files/YiniZHANG_CV.pdf
 
@@ -188,6 +192,7 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 
 - Jelena Diakonikolas: http://www.jelena-diakonikolas.com/CV_Jelena.pdf
 - Chris Holdgraf: https://predictablynoisy.com/about/#cv
+- Jason I. Hong: http://www.cs.cmu.edu/~jasonh/research/cv/cv.pdf
 - Ehsan Hoque: http://hoques.com/Ehsan-CV.pdf
 - Richard Huskey: https://drive.google.com/file/d/0Bw5A2_CPvVBJT2lDVmFpNHNjU00/edit
 - Kenneth Joseph: https://kennyjoseph.github.io/papers/cv.pdf
@@ -212,6 +217,7 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Hyeok Kim: http://www.hyeok.me/cv
 - Yang Liu: https://yangliu.life/#/cv
 - Eliseo Papa: https://elipapa.github.io/mycv/extended
+- Yuan Tang: https://terrytangyuan.github.io/cv.html
 - Yihui Xie: https://yihui.org/en/vitae/
 
 ## 12. Word
