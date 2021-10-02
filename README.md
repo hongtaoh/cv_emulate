@@ -51,6 +51,7 @@ This work is licensed under a
 - [Simplfied Template](https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf) (Recommended)
 
 ### 1.1 Examples
+- My own example: [PDF](), [Source Codes]()
 - Ibrahim Ahmed: https://drive.google.com/file/d/1wz7SoZZ1eSsY-pFO5TNuA6Du0mzaucX_/view
 - James P. Bagrow: http://bagrow.com/pdf/Bagrow_CV.pdf
 - Christopher J. Baik: https://drive.google.com/file/d/1C2tiZuxve-JfjVW4lQmphLX4xGljTQ5p/view

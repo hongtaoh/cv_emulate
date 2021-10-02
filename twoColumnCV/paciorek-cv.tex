@@ -1,0 +1,263 @@
+\documentclass[margin,line, 10pt]{res}
+
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{fontawesome}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{hypercolor}{HTML}{800000}
+\definecolor{top}{HTML}{ff0000} 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    urlcolor=hypercolor,
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancypagestyle{lastpage}
+{
+    \fancyfoot[L] {\sffamily \thepage}    
+    \fancyfoot[R] {\sffamily{Last update on \today}}
+}
+\fancyhead{}
+\fancyfoot{}
+\fancyfoot[L]{\sffamily \thepage}
+
+\usepackage{mathpazo} 
+\usepackage{eulervm}
+% \usepackage[default]{sourcesanspro}
+% \usepackage[T1]{fontenc}
+
+% \usepackage{fontspec}
+% \setmainfont[
+% BoldFont = Source Sans Pro-{Semi-bold}]{Source Sans Pro}
+% \setmainfont{Caladea}
+
+\oddsidemargin -.5in
+\evensidemargin -.5in
+\textwidth=6.0in
+\itemsep=0in
+\parsep=0in
+% if using pdflatex:
+%\setlength{\pdfpagewidth}{\paperwidFth}
+%\setlength{\pdfpageheight}{\paperheight} 
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+
+\begin{document}
+
+\name{Hongtao Hao \vspace*{.1in}} 
+
+\begin{resume}
+\section{\sc Contact Information}
+1210 W. Dayton St., 3239 \hfill {hongtaoh@cs.wisc.edu}\\
+Madison, WI 53706 \hfill \href{https://hongtaoh.com/}{\texttt www.hongtaoh.com}
+
+% \section{\sc Research Interests}
+% Network science, communication studies, Bayesian statistics
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION 
+%----------------------------------------------------------------------------------------
+\section{\sc Education}
+{\bf University of Wisconsin-Madison}, Madison, WI
+
+\vspace{-0.4cm}
+Ph.D. in Computer Sciences \hfill {August 2021 - }
+
+{\bf Indiana University}, Bloomington, IN
+
+\vspace{-0.4cm}
+M.A. in Media Arts and Sciences, GPA: 4.00/4.00 \hfill {May 2020}\\
+
+\begin{list2}
+\vspace*{-0.3cm}
+
+\item Commitee: Nicole Martins, Danielle Kilgo, Bryant Paul
+\item Coursework: \href{https://jkkweb.sitehost.iu.edu/jkkteach/P533/}{\emph{Introduction to Bayesian Data Analysis I}}, \href{http://yyahn.com/dviz-course/}{\emph{Data Visualization}}, \emph{Quantitative Methods for Public Health Research},  \emph{Introduction to Statistics in Media Research, Content Analysis},  \emph{Media Theories},  \emph{Children and Media},  \emph{Applying Social Science Research Methods to Media}
+\end{list2}
+
+{\bf Renmin University of China}, Beijing, China
+
+\vspace{-0.4cm}
+M.A. in Journalism, GPA: 3.92/4.00 \hfill {June 2018}
+
+{\bf Hebei Normal University}, Shijiazhuang, China
+
+\vspace{-0.4cm}
+B.A. in English (Translation), GPA: 3.92/4.00 \hfill {June 2016}
+
+%----------------------------------------------------------------------------------------
+%	HONORS
+%----------------------------------------------------------------------------------------
+\section{\sc Honors and Awards} 
+Second Top Student Paper Award, International Communication Association \hfill 2019
+
+\vspace*{-2.5mm}
+Annette \& Lars Willnat Travel Fellowship, Indiana University \hfill 2019
+
+\vspace*{-2.5mm}
+College of Arts and Sciences Travel Grant, Indiana University \hfill 2019
+
+\vspace*{-2.5mm}
+Wings of Excellence Award, 47\textsuperscript{th} St.Gallen Symposium, Switzerland \hfill 2017
+
+\vspace*{-2.5mm}
+First Prize Academic Scholarship, Renmin University of China \hfill 2017
+
+% \hspace{-2em} \faTrophy \hspace{.5em}
+\vspace*{-2.5mm}
+\hspace{-2em} \faTrophy \hspace{.5em} National Champion (1\textsuperscript{st}/200,000), First ``FLTRP Cup” English Reading Contest, Beijing \hfill 2015
+
+\vspace*{-2.5mm}
+National Endeavor Fellowship, Hebei Normal University \hfill 2015, 2014
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH
+%----------------------------------------------------------------------------------------
+\section{\sc Research Experience}
+{\bf YY Lab, Indiana University}, Bloomington, IN, USA
+
+\vspace{-.3cm}
+{\em Data visualization research assistant} \hfill { August 2020 - present}\\
+Assisted Professor \href{http://yongyeol.com/}{Yong-Yeol (``YY") Ahn} with the \href{https://yyahn.com/covid19-dashboard/}{Covid-19 Trend Visualizations project}:
+
+\vspace*{.05in}  
+\begin{list2}
+\item Updated the \href{https://github.com/covid19-data/covid19-data}{data workflow}
+\item Implemented the delay parameter, play speed parameter, go back parameter, and date range slider
+\item Improved the \href{https://github.com/covid19-data/covid19-dashboard}{website design}
+\end{list2}
+
+%--------------------------------------------------------------------------------
+%    Publications
+%-----------------------------------------------------------------------------------------------
+% \section{\sc Conference Presentations}
+% Hao, H. 2020. Cross-cultural comparisons of `selfie-presentation': A content analysis. Poster presented at the \textit{70th Annual Conference of the International Communication Association}, converted from Australia to virtual due to COVID-19 \hspace{2em} [\href{https://hongtaoh.com/files/ICA_Poster_Actual_Size.pdf}{Poster}], [\href{https://hongtaoh.com/slides/ICA2020.html#1}{Slides}], [\href{https://player.vimeo.com/video/418504580}{Presentation video}]
+
+% \vspace{-.1cm}
+% Hao, H. 2019. Are Chinese selfies gender-stereotypical: A content analysis of selfies on Weibo. Paper presented at the \textit{105th Annual Conference of the National Communication Association}, Baltimore, MD
+
+% \vspace{-.1cm}
+% Hao, H. 2019. Digital divide: Theoretical review and future research suggestions. Paper presented at the \textit{105th Annual Conference of the National Communication Association}, Baltimore, MD
+
+% % \hspace{-2em} \faTrophy \hspace{.5em}
+
+% \vspace{-.1cm}
+% Hao, H. 2019. Global expansion of China’s media for soft power promotion. Paper presented at the \textit{69th Annual Conference of the International Communication Association}, Washington, D.C. \\  \textbf {Top student paper award (2\textsuperscript{nd} place)}
+
+%--------------------------------------------------------------------------------
+%    PROJECTS
+%-----------------------------------------------------------------------------------------------
+\section{\sc Projects}
+%--Netsci-Notes--
+{\bf Notes on Network Science}{\hspace{2em} [\href{https://netsci.hongtaoh.com/}{Web}], [\href{https://github.com/hongtaoh/netsci-notes}{Code}], 
+[\href{https://netsci.hongtaoh.com/netsci.pdf}{PDF}]} \\
+My notes while auditing Professor YY Ahn's online course of \href{https://github.com/yy/netsci-course}{\emph{INFO I606 Network Science} }
+
+%--Intro2code--
+{\bf A Practical Guide to Coding}{\hspace{2em} [\href{https://intro2code.hongtaoh.com/}{Web}], [\href{https://github.com/hongtaoh/intro2code}{Code}]}\\
+A tutorial in Chinese for beginners to learn programming
+
+%--Onlinebooks--
+{\bf How to Create Online Books}{\hspace{2em} [\href{https://onlinebook.hongtaoh.com/}{Web}], [\href{https://github.com/hongtaoh/onlinebook}{Code}]}\\
+A tutorial on creating online documentation/books
+
+%--Olymvis--
+{\bf Visualizing 120 Years of Summer Olympic Games}{\hspace{2em} [\href{https://olymvis.hongtaoh.com/}{Web}], [\href{https://github.com/hongtaoh/olymvis-data}{Code}],
+[\href{https://raw.githubusercontent.com/hongtaoh/olymvis/master/static/tex-pdf/fang_hao_olymvis.pdf}{PDF}]} \\
+A data visualization project for Professor YY Ahn's \href{http://yyahn.com/dviz-course/}{\emph{INFO I590 Data Visualization}} in 2019 Fall
+
+%--C101--
+{\textbf {C101 with Hongtao}}{ \hspace{2em} [\href{https://c101.hongtaoh.com/}{Web}], [\href{https://github.com/hongtaoh/c101}{Code}]} \\
+Class website for my students enrolled \textit{in MSCH-C101 Introduction to Media} in 2020 Spring.
+
+\vspace*{.05in}  
+\begin{list2}
+\item Highlights: \href{https://c101.hongtaoh.com/feedback/}{Students feedback}, \href{https://c101.hongtaoh.com/slides/}{Slides}, \href{https://c101.hongtaoh.com/videos/}{Lecture videos}
+\end{list2}
+
+%--D3book--
+{\bf D3Book Companion}{\hspace{2em} [\href{https://d3book.hongtaoh.com/}{Web}], [\href{https://github.com/hongtaoh/d3book}{Code}]},
+[\href{https://d3book.hongtaoh.com/d3book.pdf}{PDF}]\\
+A simple tutorial website helping beginners learn D3.js
+
+%--RUC--
+{\bf International Journalism at RUC}{\hspace{2em} [\href{https://rucer.netlify.app/}{Web}], [\href{https://github.com/hongtaoh/guoxinban}{Code}]} \\
+Class website for \textit {International Journalism} taught at Renmin Univ. of China by Michael J. Jordan
+
+%--------------------------------------------------------------------------------
+%    WORKING EXPERIENCE
+%-----------------------------------------------------------------------------------------------
+\section{\sc Working Experience}
+{\bf St.Gallen Symposium Magazine}, St.Gallen, Switzerland
+
+\vspace{-.3cm}
+{\em Student journalist} \hfill {May 2019}\\
+Worked with 13 team members from seven countries and four continents, supervised by \href{https://www.andrewcurry.com/}{Andrew Curry}, with the group output of a \href{https://www.symposium.org/sites/default/files/2019-11/Magazine\%2049th\%20St.\%20Gallen\%20Symposium.pdf}{56-page magazine}. Representative work:
+
+\begin{list2}
+\item {\href{https://www.symposium.org/articles/its-not-just-about-spending-more-money}{\textit{``It's not just about spending more money"}}, Interviewing Heng Swee Keat, Deputy Prime Minister of Singapore;}
+\item {\href{https://www.symposium.org/articles/freeman-shens-electric-dream}{\textit{Freeman Shen's electric dream}}, Interviewing Freeman Shen, CEO of WM Motor --- a leading Chinese electric car maker;}
+\item {\href{https://www.symposium.org/articles/what-role-should-governments-play}{\textit{What role should governments play?}}, Interviewing young politicians from India, Argentina, and Sri Lanka}
+\end{list2}
+
+% {\bf China Daily}, Beijing, China 
+
+% \vspace{-.3cm}
+% {\em News Editor \& Translator} \hfill {December \& July 2017}\\
+% Edited and translated news articles and videos
+
+% {\bf Wuhan Iron \& Steel Corp.}, Ezhou, China
+
+% \vspace{-.3cm}
+% {\em Interpreter \& Small group organizor} \hfill { April 2015}\\
+% Worked with 5 trainees from Indonesia
+
+%--------------------------------------------------------------------------------
+%    TEACHING EXPERIENCE
+%-----------------------------------------------------------------------------------------------
+\section{\sc Teaching Experience}
+{\bf The Media School}, Indiana University, Bloomington, IN, USA
+
+\vspace{-.3cm}
+{\em Associate Instructor} \hfill {January - May 2020}\\
+Led group discussions for 40 students enrolled in \textit {MSCH-C101 Introduction to Media}
+
+{\em Graduate Assistant} \hfill {August 2018 - December 2019}\\
+\textit{MSCH-C207 Introduction to Media Industry and Management}, 125 students \\
+\textit{MSCH-C200 Videogame Industry: System and Management}, 60 students
+
+{\bf New Oriental Education and Technology Inc.}, Beijing, China
+
+\vspace{-.3cm}
+{\em TOEFL Writing Instructor} \hfill {June - July 2018, June - July 2016}\\
+Prepared high school students and college undergrads for the Writing section of TOEFL, with more than 200 hours of practice
+
+\section{\sc Computer Skills} 
+\begin{list2}
+\item Statistical \& network analysis:  R, Python
+\item Data visualization \& Front-end development:  Python, D3.js, CSS, HTML, Hugo
+\item Applications: \LaTeX, Final Cut Pro
+\end{list2}
+
+\end{resume}
+\thispagestyle{lastpage}
+\end{document}
+
+
+
+
