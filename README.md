@@ -2,7 +2,7 @@
 
 At some point in your life, you have to show other people your CV, be it PhD application, grant appication, or job application. 
 
-I am amazed by the creativity of the CVs I saw. I collected many of them when I was creating my own CV for my 2020-2021 PhD applicaiton. I decided to sort them based on the templates they use. 
+I am amazed by the creativity of the CVs I saw. I collected many of them when I was creating my own CV for [my 2020-2021 PhD applicaiton](https://hongtaoh.com/cn/2021/05/22/my-phd-app/#%E7%AC%AC%E4%B8%89%E6%AC%A1%E7%94%B3%E8%AF%B7%E8%B4%B5%E4%BA%BA%E7%9B%B8%E5%8A%A9%E6%84%8F%E5%A4%96%E6%94%B6%E8%8E%B7). I decided to sort them out based on the templates they use. 
 
 ## TOC
 
@@ -22,12 +22,12 @@ I am amazed by the creativity of the CVs I saw. I collected many of them when I 
 ### Notice
 
 1. Links are fragile by nature.
-2. If the link is too long, I just link to their main website.
+2. If the link is too long, I just link the document to the authors' homepage.
 
 ### Suggeste & Contribute
-If you see your cv below and want it to be removed, please fork and submit PR or simply email me. 
+If you see your CV below and want it to be removed, please fork and submit PR or simply email me. 
 
-If you want to add your cv to the repository, or want to contribute, simply fork and submit PR. 
+If you want to add your CV to the repository, or want to contribute, simply fork and submit PR. 
 
 ## License
 
