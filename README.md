@@ -124,6 +124,7 @@ This work is licensed under a
 ### 3.1 Examples
 
 - Xiao Ma: https://maxiao.info/xm-cv.pdf
+- Xiaoying Pu: https://xiaoyingpu.github.io/files/pu_cv.pdf
 - Abhraneel Sarma: https://abhsarma.github.io/about/abhraneel_cv.pdf 
 - Frederic Sala: https://pages.cs.wisc.edu/~fredsala/FredericSalaCV.pdf
 - Dario Taraborelli: http://nitens.org/cv/cv.pdf
