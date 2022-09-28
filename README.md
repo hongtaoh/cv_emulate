@@ -103,7 +103,6 @@ This work is licensed under a
 - Danaja Maldeniya: http://www.dmaldeniya.com/files/cv.pdf
 - Rui Pei: http://www.ruipei.net/files/cv_vitae.pdf
 - Hao Peng: http://haoopeng.github.io/cv.pdf
-- Shawn M. Santo: https://www.shawnsanto.com/files/santo_cv.pdf
 - Katie Shilton: http://terpconnect.umd.edu/~kshilton/pdf/CV.pdf
 - Emma S. Spiro: https://www.dropbox.com/s/esoov1mecfia5hq/spiro_cv.pdf?dl=0
 - Onur Varol: http://www.onurvarol.com/files/onurvarol-cv.pdf
