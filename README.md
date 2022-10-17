@@ -51,7 +51,7 @@ This work is licensed under a
 - [Simplfied Template](https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf) (Recommended)
 
 ### 1.1 Examples
-- My own example: [PDF](https://raw.githubusercontent.com/hongtaoh/cv_emulate/master/oneColumn/Hongtao_CV_1col.pdf), [Source Codes](https://github.com/hongtaoh/cv_emulate/tree/master/oneColumn)
+- My own example: [PDF](https://raw.githubusercontent.com/hongtaoh/cv_emulate/master/oneColumn/Hongtao_CV_1col.pdf), [Source Codes](https://github.com/hongtaoh/cv_emulate/tree/master/oneColumn), **Note: If you use Overleaf, you need to use the LuaLaTeX Compiler. In your project, click "Menu", and you can see the dropdown for Compiler. Choose "LuaLaTeX".**
 - Ibrahim Ahmed: https://drive.google.com/file/d/1wz7SoZZ1eSsY-pFO5TNuA6Du0mzaucX_/view
 - James P. Bagrow: http://bagrow.com/pdf/Bagrow_CV.pdf
 - Christopher J. Baik: https://drive.google.com/file/d/1C2tiZuxve-JfjVW4lQmphLX4xGljTQ5p/view
