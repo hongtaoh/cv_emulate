@@ -221,6 +221,7 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Yang Liu: https://yangliu.life/#/cv
 - Eliseo Papa: https://elipapa.github.io/mycv/extended
 - Yuan Tang: https://terrytangyuan.github.io/cv.html
+- Liwenhan Xie: https://shellywhen.github.io/cv/
 - Yihui Xie: https://yihui.org/en/vitae/
 
 ## 12. Word
