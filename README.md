@@ -230,3 +230,7 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Lantao Liu: http://homes.sice.indiana.edu/lantao/cv_lantaoliu.pdf
 - Hang Lu: https://lsa.umich.edu/comm/people/regular-faculty/hang-lu.html
 - Lu Tang: http://people.tamu.edu/~ltang/CV_Website.pdf
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hongtaoh/cv_emulate&type=Timeline)](https://star-history.com/#hongtaoh/cv_emulate&Timeline)
