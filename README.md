@@ -51,7 +51,6 @@ This work is licensed under a
 - [Simplfied Template](https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf) (Recommended)
 
 ### 1.1 Examples
-- My own example: [PDF](https://raw.githubusercontent.com/hongtaoh/cv_emulate/master/oneColumn/Hongtao_CV_1col.pdf), [Source Codes](https://github.com/hongtaoh/cv_emulate/tree/master/oneColumn), **Note: If you use Overleaf, you need to use the LuaLaTeX Compiler. In your project, click "Menu", and you can see the dropdown for Compiler. Choose "LuaLaTeX".**
 - Ibrahim Ahmed: https://drive.google.com/file/d/1wz7SoZZ1eSsY-pFO5TNuA6Du0mzaucX_/view
 - James P. Bagrow: http://bagrow.com/pdf/Bagrow_CV.pdf
 - Christopher J. Baik: https://drive.google.com/file/d/1C2tiZuxve-JfjVW4lQmphLX4xGljTQ5p/view
@@ -86,9 +85,6 @@ This work is licensed under a
 - [Template 2](https://www.overleaf.com/latex/templates/simple-academic-cv-and-cover-letter/jcbnpttqffzm) (Recommended)
 
 ### 2.1 Examples
-
-- My own example: [PDF](https://raw.githubusercontent.com/hongtaoh/cv_emulate/master/twoColumnCV/twoColumnCV.pdf), [Source Codes](https://github.com/hongtaoh/cv_emulate/tree/master/twoColumnCV)
-- Yong-Yeol Ahn: http://yongyeol.com/cv.pdf
 - Tim Althoff: http://www.timalthoff.com/docs/CV_Tim_Althoff.pdf
 - Ceren Budak: http://cbudak.com/cv.pdf
 - Rahul Chatterjee: https://pages.cs.wisc.edu/~chatterjee/data/RahulChatterjee.pdf
@@ -139,7 +135,6 @@ This work is licensed under a
 
 ### 4.1 Examples
 
-- My own example: [PDF](https://raw.githubusercontent.com/hongtaoh/cv_emulate/master/My_Awesome_CV/My_Awesome_CV.pdf), [Source codes](https://github.com/hongtaoh/cv_emulate/tree/master/My_Awesome_CV)
 - Xian Teng: http://www.pitt.edu/~xit22/xianteng_cv_2021_01.pdf
 
 ## 5. Modern CV
