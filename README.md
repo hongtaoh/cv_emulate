@@ -74,7 +74,6 @@ This work is licensed under a
 - [Template 1](https://www.latextemplates.com/template/moderncv-cv-and-cover-letter)
 - [Template2](https://www.overleaf.com/latex/templates/canadacast-cv-example/wtqmwzjbcxqg)
 
-
 ## 6. YAAC
 
 - [Christophe Roger's original template](https://www.overleaf.com/latex/templates/awesome-source-cv/wrdjtkkytqcw)
