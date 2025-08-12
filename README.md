@@ -99,3 +99,4 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - Zach Scrivena's simple-resume-cv: https://github.com/zachscrivena/simple-resume-cv
 - Billryan's cv template: https://github.com/billryan/resume
 - Geoff Boeing's academic CV: https://github.com/gboeing/cv
+- CleanCV academic template: [Example](https://github.com/giladturok/CleanCV/blob/main/example_cv.pdf) [Github template](https://github.com/giladturok/CleanCV)
