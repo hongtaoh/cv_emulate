@@ -95,7 +95,7 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 - [Deedy CV](https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz)
 - Bastian Rieck's CV: [Example](https://bastian.rieck.me/about/cv.pdf), [Template](https://github.com/Pseudomanifold/latex-cv)
 - Jacob Long's CV: [Example](https://jacob-long.com/pdf/cv.pdf), [Source Code](https://github.com/jacob-long/cv)
-- Leonardo Uieda's CV: [Example](https://www.leouieda.com/cv/leonardo_uieda_cv.pdf), [Source Code](https://github.com/leouieda/cv)
+- Leonardo Uieda's CV: [Example](https://codeberg.org/leouieda/cv/raw/branch/pdf/cv.pdf), [Source Code](https://codeberg.org/leouieda/cv)
 - Zach Scrivena's simple-resume-cv: https://github.com/zachscrivena/simple-resume-cv
 - Billryan's cv template: https://github.com/billryan/resume
 - Geoff Boeing's academic CV: https://github.com/gboeing/cv
