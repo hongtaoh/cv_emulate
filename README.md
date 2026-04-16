@@ -91,6 +91,7 @@ R Pagedown Package: https://github.com/rstudio/pagedown
 
 ## 9. Other good templates
 
+- [Academic CV Template LaTeX](https://github.com/shellywhen/Academic-CV-Template-LaTeX) by [Liwenhan Xie](https://github.com/shellywhen)
 - [Jan Küster's Classic CV](https://www.overleaf.com/latex/templates/jan-kusters-classic-cv/tvghvdsffwgs)
 - [Deedy CV](https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz)
 - Bastian Rieck's CV: [Example](https://bastian.rieck.me/about/cv.pdf), [Template](https://github.com/Pseudomanifold/latex-cv)
